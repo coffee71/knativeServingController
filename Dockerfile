@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:a168c9fa095c88b3e0bcbbaa6d4501a8a02ab740b360938879ae9df55964a758
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:69a255299717c92757bfa7067889b449d1816c50e9b6cd709d06436418b9aa24
 MAINTAINER cx
